@@ -1,0 +1,17 @@
+*{
+    background-color: blanchedalmond;
+}
+
+.pageMargin{
+    margin-right: 195px;
+    margin-left: 195px;
+
+}
+
+#heading{
+    color: brown;
+}
+
+#signature{
+    float: right;
+}
